@@ -28,7 +28,7 @@ SECRET_KEY = 'xxx'
 DEBUG = True
 
 ALLOWED_HOSTS = [".pythonanywhere.com",
-".heroku.com",
+".herokuapp.com",
 "localhost"
 ]
 
